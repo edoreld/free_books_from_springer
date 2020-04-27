@@ -1,8 +1,8 @@
 # Free books from springer
 
-407 books from Springer are free to download until the end of July. This is a list of all the books available.
+This is a list of books that Springer has made available until the end of July. 
 
-## Free book list
+## The List
 
 Fundamentals of Power Electronics http://link.springer.com/openurl?genre=book&isbn=978-0-306-48048-5
 
