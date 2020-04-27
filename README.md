@@ -1,4 +1,4 @@
-# Free books from springer
+# Free books from Springer
 
 This is a list of books that Springer has made available for free until the end of July. 
 
